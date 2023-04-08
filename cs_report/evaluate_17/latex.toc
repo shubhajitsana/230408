@@ -1,0 +1,30 @@
+\contentsline {section}{\numberline {1}Classifiers}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}/home/belle2/ssana/MC15ri\_cs1/cs/test/MVAFastBDT.root}{3}{subsection.1.1}%
+\contentsline {section}{\numberline {2}Variables}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Importance}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Correlation}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}KSFWVariables(hso01)}{5}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}KSFWVariables(hso20)}{6}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}CleoConeCS(2)}{6}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}KSFWVariables(hoo0)}{7}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}thrustOm}{7}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}KSFWVariables(et)}{8}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.9}CleoConeCS(1)}{8}{subsection.2.9}%
+\contentsline {subsection}{\numberline {2.10}cosTBz}{9}{subsection.2.10}%
+\contentsline {subsection}{\numberline {2.11}KSFWVariables(hso10)}{9}{subsection.2.11}%
+\contentsline {subsection}{\numberline {2.12}KSFWVariables(hso02)}{10}{subsection.2.12}%
+\contentsline {subsection}{\numberline {2.13}KSFWVariables(hso12)}{10}{subsection.2.13}%
+\contentsline {subsection}{\numberline {2.14}CMS\_cosTheta}{11}{subsection.2.14}%
+\contentsline {subsection}{\numberline {2.15}thrustBm}{11}{subsection.2.15}%
+\contentsline {subsection}{\numberline {2.16}cosTBTO}{12}{subsection.2.16}%
+\contentsline {subsection}{\numberline {2.17}abs\_qr}{12}{subsection.2.17}%
+\contentsline {subsection}{\numberline {2.18}DeltaZ}{13}{subsection.2.18}%
+\contentsline {subsection}{\numberline {2.19}R2}{13}{subsection.2.19}%
+\contentsline {section}{\numberline {3}Classifier Plot}{13}{section.3}%
+\contentsline {section}{\numberline {4}ROC Plot}{14}{section.4}%
+\contentsline {section}{\numberline {5}Classification Results}{15}{section.5}%
+\contentsline {subsection}{\numberline {5.1}/home}{15}{subsection.5.1}%
+\contentsline {section}{\numberline {6}Diagonal Plot}{15}{section.6}%
+\contentsline {subsection}{\numberline {6.1}/home}{15}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Overtraining Plot}{16}{subsection.6.2}%
+\contentsline {section}{\numberline {7}Spectators}{16}{section.7}%
